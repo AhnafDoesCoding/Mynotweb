@@ -1,1 +1,3 @@
 # Mynotweb
+
+<!doctype html>
